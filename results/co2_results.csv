@@ -1,0 +1,4 @@
+model,MAE_ppm,MAE_ppm_before_fault,RMSE_ppm,R2,interval_halfwidth_ppm,coverage_90,coverage_occupied,coverage_empty
+mean (no model),208.702,171.586,335.949,-0.279,943.634,0.983,0.980,0.984
+linear regression,216.825,175.010,324.775,-0.195,379.448,0.854,0.810,0.866
+gradient boosting,223.469,184.302,326.324,-0.207,405.166,0.847,0.800,0.859
