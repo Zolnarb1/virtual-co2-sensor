@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+data/
+linkedin_posts/
+results/co2_test_trace.csv
